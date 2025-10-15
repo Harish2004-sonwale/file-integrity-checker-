@@ -1,0 +1,32 @@
+# File Integrity Checker - Python Dependencies
+# 
+# Core dependencies (all are part of Python standard library)
+# No additional packages required for basic functionality
+#
+# Python version: 3.6+
+
+# Standard library modules used:
+# - hashlib (SHA256 hashing)
+# - tkinter (GUI framework)
+# - os (file system operations)
+# - filedialog (file selection)
+# - messagebox (user notifications)
+
+# Optional: For creating standalone executables
+# pyinstaller>=5.0.0
+
+# Optional: For web version (future enhancement)
+# flask>=2.0.0
+# flask-cors>=3.0.0
+
+# Optional: For testing
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+
+# Optional: For code quality
+# pylint>=2.12.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Note: The basic application requires only Python 3.6+ with standard library.
+# No pip install needed for core functionality!
