@@ -274,6 +274,14 @@ file-integrity-checker/
 
 ## 📸 Screenshots
 
+
+![screenshot1](https://github.com/user-attachments/assets/732b7a1e-622f-4ece-a230-f87bdac385fb)
+
+
+![scrrenshot 2 ](https://github.com/user-attachments/assets/eecc2641-11a3-49a0-a569-80b44a486fee)
+
+![scrrenshot 3](https://github.com/user-attachments/assets/305d96ef-2be8-43fd-b8cd-3db0c1289e13)
+
 ### Main Interface
 - Clean and modern UI design
 - Color-coded status indicators
@@ -322,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Harish**
+**Harish C Sonwale**
 - Project: File Integrity Checker
 - Technology: Python + Tkinter
 - Purpose: Cybersecurity Demonstration
@@ -335,15 +343,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tkinter for GUI framework
 - hashlib for cryptographic functions
 - Open-source community
-
----
-
-## 📞 Support
-
-For questions or issues:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation
 
 ---
 
@@ -361,6 +360,3 @@ Perfect for:
 - Python programming practice
 - Portfolio demonstration
 
----
-
-**Made with ❤️ for Cybersecurity Education**
