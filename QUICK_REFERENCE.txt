@@ -2,7 +2,7 @@
                     FILE INTEGRITY CHECKER - QUICK REFERENCE
 ================================================================================
 
-PROJECT FILES:
+PROJECT Files:
 --------------
 Core Application:
   - hash_generator.py      Backend logic (hash functions)
