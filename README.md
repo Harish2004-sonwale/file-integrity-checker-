@@ -1,6 +1,6 @@
 # 🔒 File Integrity Checker (Hash Verifier )
 
-A Python-based application that verifies file integrity using SHA256 hash generation. Detects file modifications, corruption, or tampering with an intuitive GUI interface.
+A Python-based application that verifies file integrity using SHA256 hash generation. Detects file modifications, corruption, or tampering with an intuitive Graphica user interface.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
