@@ -1,4 +1,4 @@
-# 🔒 File Integrity Checker (Hash Verifier)
+# 🔒 File Integrity Checker (Hash Verifier )
 
 A Python-based application that verifies file integrity using SHA256 hash generation. Detects file modifications, corruption, or tampering with an intuitive GUI interface.
 
